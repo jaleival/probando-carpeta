@@ -1,21 +1,15 @@
 # 🌐 Mini Proyecto Web
 
-Pequeño proyecto desarrollado en **HTML5** como práctica de estructura web y control de versiones con **Git & GitHub**.  
-Durante el desarrollo se realizaron mejoras progresivas mediante commits, aplicando cambios visuales y de contenido.
-
----
+Pequeño proyecto desarrollado en **HTML5** como práctica de estructura web y uso de **Git & GitHub**. Durante el desarrollo se realizaron mejoras progresivas en diseño, contenido y documentación mediante distintos commits.
 
 ## 🚀 Descripción
 
-Este proyecto consiste en una página web básica creada en HTML, donde se implementaron modificaciones para mejorar su apariencia y estructura semántica.
+Este proyecto consiste en una página web básica donde se aplicaron cambios simples pero importantes para mejorar su presentación y estructura:
 
-Entre los cambios realizados destacan:
-
-- 🎨 Cambio de color de fondo de la página web.
-- 📝 Agregado de un segundo párrafo informativo.
-- 📰 Incorporación de un encabezado `<h2>` para mejorar la jerarquía del contenido.
-
----
+- 🎨 Cambio de color de la página web.  
+- 📝 Agregado de un segundo párrafo informativo.  
+- 📰 Incorporación de encabezados `<h1>` y `<h2>`.  
+- 📄 Mejora y documentación del proyecto con README.
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -24,29 +18,27 @@ Entre los cambios realizados destacan:
 - Git  
 - GitHub  
 
----
-
-## 📂 Estructura del Proyecto
+## 📌 Historial de Commits
 
 ```bash
-mini-proyecto/
-│── index.html
-│── style.css
-│── README.md
+git log --oneline
+69bb755 Se agregó contenido al README
+dd65ccf Se cambió el color de la página web
+bbc2a7e Agregando un segundo párrafo
+b972771 Agregando h2
+9af5899 Agregando h1
+0d35b40 Inicializando proyecto
 
-⚙️ Cómo Ejecutarlo
-Clonar repositorio:
+# ⚙️ Cómo Ejecutarlo
 git clone https://github.com/jaleival/probando-carpeta.git
-Entrar al proyecto:
-cd tu-repositorio
-Abrir archivo principal:
-index.html
-📚 Aprendizajes Aplicados
-Uso correcto de etiquetas HTML.
-Organización semántica del contenido.
-Manejo básico de estilos CSS.
-Uso de commits descriptivos en Git.
-Publicación de proyectos en GitHub.
-👨‍💻 Autor
+cd probando-carpeta
 
-Desarrollado por Jorge Leiva 🚀
+# 📚 Aprendizajes Aplicados
+Uso de etiquetas HTML.
+Estilos básicos con CSS.
+Control de versiones con Git.
+Manejo de commits descriptivos.
+Publicación de proyectos en GitHub.
+
+# 👨‍💻 Autor
+Jorge Leiva 🚀
